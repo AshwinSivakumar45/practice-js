@@ -173,3 +173,6 @@ console.log(BREAKFAST);
 display()
 
 
+const dummy = ()=>{
+    return "DUMMY"
+}
