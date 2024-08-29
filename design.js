@@ -176,3 +176,8 @@ display()
 const dummy = ()=>{
     return "DUMMY"
 }
+
+
+let hey=()=>{
+ console.log("hello");
+}
