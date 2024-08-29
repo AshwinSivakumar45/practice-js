@@ -165,11 +165,11 @@
 //             }
 //         })
         
-// console.log(DINNER);
-// console.log(LUNCH);
-// console.log(BREAKFAST);
-//// Dinner Lunch Snack Dessert Side Dish Appertizer Breakfast Beverage        
+console.log(DINNER);
+console.log(LUNCH);
+console.log(BREAKFAST);
+// Dinner Lunch Snack Dessert Side Dish Appertizer Breakfast Beverage        
 // }
-// display()
+display()
 
 
